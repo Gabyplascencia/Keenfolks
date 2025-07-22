@@ -66,7 +66,21 @@ PDF
 
 
 ## 📌 Conclusions
-This challenge showcased the power of Power BI and DAX for building impactful business dashboards. By transforming raw marketing and sales data into actionable insights, the solution enables better decision-making and resource optimization.
+Order growth is consistent year-over-year, reaching 3,322 total orders from 2014 to 2016.
+
+Customer count rebounded in 2016, marking the highest engagement across the period.
+
+Office Supplies lead in average order value, while Technology sales are declining.
+
+Top clients (e.g., Anna Gayman, Craig Molinari) generate significant revenue and should be prioritized.
+
+The West region is the strongest market, ideal for new campaigns or loyalty programs.
+
+Easy-Staple Paper is the top-selling product every year — a strong candidate for promotions.
+
+Discounts in Furniture don’t always increase profits — focus on strategic pricing.
+
+Tech products need targeted campaigns to reverse declining trends.
 
 ### 👩‍💻 Author
 Gabriela Rivera Plascencia
